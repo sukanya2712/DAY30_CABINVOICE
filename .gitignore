@@ -1,0 +1,23 @@
+.idea
+*.iws
+*.iml
+*.ipr
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+.git123
+.out
+out
+*.iml
+
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
