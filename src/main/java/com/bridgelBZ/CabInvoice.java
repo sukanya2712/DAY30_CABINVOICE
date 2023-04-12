@@ -1,6 +1,7 @@
 package com.bridgelBZ;
 
 public class CabInvoice {
+    //uc1
     public static final int COST_PER_KILOMETER = 10;
     public static final int COST_PER_MINUTE = 1;
     public static final int MINIMUM_FARE = 5;

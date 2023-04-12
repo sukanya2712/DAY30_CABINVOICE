@@ -5,6 +5,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 public class CabInvoiceTest {
+    //uc1
     CabInvoice cabInvoice;
 
     @BeforeEach
